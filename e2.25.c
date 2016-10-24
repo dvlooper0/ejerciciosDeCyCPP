@@ -7,23 +7,22 @@ void main(){
  * utilizando las letras que representa.
  */
 
-	printf("	DDDDDDDDD	\n" _
-	       "	D	D	\n" _ 
-	       "	 D     D   	\n" _
-	       "	  DDDDD 	\n" _
+	printf("	DDDDDDDDD	\n   	D	D	\n  
+	        	 D     D   	\n /
+	        	  DDDDD 	\n /
 
-	       "	      VV	\n" _
-	       "	    V		\n" _
-	       "	  V		\n" _
-	       "	V		\n" _
-	       "	  V		\n" _
-	       "	    V		\n" _
-	       "	      VV	\n" _
+	        	      VV	\n /
+	        	    V		\n /
+	        	  V		\n /
+	        	V		\n /
+	        	  V		\n /
+	        	    V		\n /
+	        	      VV	\n /
 			
-	       "	PPPPPPPPP	\n" _
-	       "	   P    P	\n" _
-	       "	    P  P  	\n" _
-	       "	     PP		\n  ");
+	        	PPPPPPPPP	\n /
+	        	   P    P	\n /
+	        	    P  P  	\n /
+	        	     PP		\n  ");
 
 
 }
