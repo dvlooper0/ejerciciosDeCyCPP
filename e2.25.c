@@ -7,7 +7,8 @@ void main(){
  * utilizando las letras que representa.
  */
 
-	printf("	DDDDDDDDD	\n   	D	D	\n  
+	printf("	DDDDDDDDD	\n   	
+			D	D	\n  
 	        	 D     D   	\n /
 	        	  DDDDD 	\n /
 
