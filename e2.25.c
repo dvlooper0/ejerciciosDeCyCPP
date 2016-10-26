@@ -9,20 +9,20 @@ void main(){
 
 	printf("	DDDDDDDDD	\n   	
 			D	D	\n  
-	        	 D     D   	\n /
-	        	  DDDDD 	\n /
+	        	 D     D   	\n 
+	        	  DDDDD 	\n 
 
-	        	      VV	\n /
-	        	    V		\n /
-	        	  V		\n /
-	        	V		\n /
-	        	  V		\n /
-	        	    V		\n /
-	        	      VV	\n /
+	        	      VV	\n 
+	        	    V		\n 
+	        	  V		\n 
+	        	V		\n 
+	        	  V		\n 
+	        	    V		\n 
+	        	      VV	\n 
 			
-	        	PPPPPPPPP	\n /
-	        	   P    P	\n /
-	        	    P  P  	\n /
+	        	PPPPPPPPP	\n 
+	        	   P    P	\n 
+	        	    P  P  	\n 
 	        	     PP		\n  ");
 
 
