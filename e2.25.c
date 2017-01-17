@@ -7,23 +7,24 @@ void main(){
  * utilizando las letras que representa.
  */
 
-	printf("	DDDDDDDDD	\n   	
-			D	D	\n  
-	        	 D     D   	\n 
-	        	  DDDDD 	\n 
-
-	        	      VV	\n 
-	        	    V		\n 
-	        	  V		\n 
-	        	V		\n 
-	        	  V		\n 
-	        	    V		\n 
-	        	      VV	\n 
-			
-	        	PPPPPPPPP	\n 
-	        	   P    P	\n 
-	        	    P  P  	\n 
-	        	     PP		\n  ");
+	printf("			\n \
+			DDDDDDDDD       \n \  	
+			D	D	\n \
+	        	 D     D   	\n \
+			  DDDDD 	\n \
+					\n \
+	        	      VV	\n \
+	        	    V		\n \
+	        	  V		\n \
+	        	V		\n \
+	        	  V		\n \
+	        	    V		\n \
+	        	      VV	\n \
+			                \n \
+	        	PPPPPPPPP	\n \
+	        	   P    P	\n \
+	        	    P  P  	\n \ 
+	        	     PP		\n ");
 
 
 }
